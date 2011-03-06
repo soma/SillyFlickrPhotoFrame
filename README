@@ -1,0 +1,3 @@
+Silly little program that fetches a flickr image in a frame.
+
+My hello world in macruby. You need macruby with httparty and nokogiri.
